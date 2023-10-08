@@ -1,0 +1,29 @@
+.hero-container{
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: gray;
+    opacity: 90%;
+}
+
+.hero-container img, .hero-container h1{
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+
+.recipe-container{
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: gray;
+    opacity: 90%;
+    text-align: center;
+    min-height: 400px;
+}
