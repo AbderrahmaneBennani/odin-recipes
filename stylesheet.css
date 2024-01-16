@@ -7,13 +7,14 @@ body{
 }
 
 .title {
+    font-size: 3.5rem;
     margin: 5%;
     text-align: center;
     color: rgba(0, 0, 0, 0.63);
 }
 
 .title img{
-    width: 70px;
+    width: 100px;
     margin: -10px;
 }
 
@@ -29,5 +30,5 @@ body{
 }
 
 .recipe img:hover{
-    filter: brightness(150%);
+    filter: brightness(125%);
 }
